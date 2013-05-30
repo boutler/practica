@@ -1,6 +1,6 @@
 <?php
 
 /*
- * Versió inicial del projecte
+ * Funcio per fer una suma
  */
 ?>
