@@ -11,4 +11,11 @@ function suma($a,$b){
 
     echo suma(3,5);
 
+function resta($a,$b){
+
+    return $a+$b;
+}
+
+    echo resta(4,6);
+
 ?>
