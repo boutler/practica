@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Versió inicial del projecte
+ * Funcio per fer una suma
  */
 
 if (isset($_GET['a']) $$ isset($_GET['b'])){
