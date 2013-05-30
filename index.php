@@ -1,15 +1,7 @@
 <?php
 
 /*
- * Funcio per fer una suma
+ * Versio inicial del missatge
  */
-
-
-function suma($a,$b){
-    
-    return $a+$b;
-}
-
-    echo suma(3,5);
 
 ?>
