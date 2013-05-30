@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Versio inicial del proyecte
+ * funcio per fer una suma
  */
 
 function suma($a,$b){
