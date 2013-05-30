@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Funcio per fer una suma
+ * Versio inicial del proyecte
  */
 
 ?>
