@@ -1,2 +1,2 @@
 <?php
-	echo "versio inicial del proyecte";
+	echo "versio inicial del proyecte ";
